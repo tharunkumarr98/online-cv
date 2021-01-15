@@ -50,9 +50,10 @@ education:
     - degree: B.Tech in Electrical and Electronics Engineering 
       university: Bapatla Engineering College
       time: 2015 - 2019
-      details: |
+      details: 
           - 85%
-experiences: |
+experiences: 
+    title: Experiences
     - role: Programmer Analyst
       time: 2019 - Present
       company: Cognizant Technology Solutions
