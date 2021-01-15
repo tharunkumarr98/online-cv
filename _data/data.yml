@@ -53,7 +53,7 @@ education:
       details: 
           - 85%
 experiences: 
-    title: Experiences
+    title: Experiences |
     - role: Programmer Analyst
       time: 2019 - Present
       company: Cognizant Technology Solutions
@@ -87,4 +87,3 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
